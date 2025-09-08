@@ -11,3 +11,4 @@
 | Frida-Tcp-Server | No | [WIP Project] | 
 | JS-Miner | Yes |  | 
 | Poor-JS-Miner | No | :heavy_check_mark: | 
+| Poor-JS-LinkFinder | No | :heavy_check_mark: | 
